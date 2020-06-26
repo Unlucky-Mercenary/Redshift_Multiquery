@@ -1,0 +1,1 @@
+module.exports.CONSTRING="tcp://awsuser:pass@***********.ap-northeast-1.redshift.amazonaws.com:5439/mydb";
